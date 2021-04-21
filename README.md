@@ -1,5 +1,4 @@
 # Heterogeneity-Aware-Hashing
-[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Heterogeneity-Aware-Hashing.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Heterogeneity-Aware-Hashing)<br>
 This repository contains code for simulating the heterogeneity-aware hashing techniques proposed by Vivek Mishra and I, as a part of CS:402 Distributed Systems course project, Autumn 2020-21.<br>
 Access the <a href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/tree/main/Code">code</a>, <a href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/blob/main/Report/Heterogeneity-Aware%20Hashing.pdf">report</a> and <a href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/blob/main/Presentation/Heterogeneity_Aware_Hashing.pdf">presentation</a> by clicking on the respective links.
 
